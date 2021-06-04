@@ -1,9 +1,7 @@
 # Blender-Addons
 
 blender-bake-prep-addon-v01 (alpha)
-is mostly based on the method you can find  in this youtube tutorial:
 
-https://www.youtube.com/watch?v=9airvjDaVh4
 
 adds a menu in the render (by luck for me directly under baking )
 called pre-bake.
