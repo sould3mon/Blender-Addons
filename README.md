@@ -13,6 +13,7 @@ select the uvmaps and select an existing texture
 automaticly connects the uvmap.target to the texture input 
 
 also optionaly connect the material uvmap TO ALL  image textures found in the node tree (this might break stuff).
+
 option to skip metallic materials as these don't bake well (i believe most game engine only support a value of 0 or 1 unlike blender)
 
 automaticaly selects the image texture as active for all materials
